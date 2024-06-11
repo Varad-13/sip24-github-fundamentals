@@ -2,7 +2,7 @@
 Varad Joshi
 
 ## Photo
-![Varad Joshi]([[https://link-to-your-photo.jpg](https://media.licdn.com/dms/image/D4D03AQFeovFKvemrsQ/profile-displayphoto-shrink_200_200/0/1714494071314?e=1723680000&v=beta&t=n9A40dYa3umSCzVhB69OEiAy48OnJqvl8zr9PLbiGeU)])
+![Varad Joshi]([https://link-to-your-photo.jpg](https://media.licdn.com/dms/image/D4D03AQFeovFKvemrsQ/profile-displayphoto-shrink_200_200/0/1714494071314?e=1723680000&v=beta&t=n9A40dYa3umSCzVhB69OEiAy48OnJqvl8zr9PLbiGeU)])
 
 ## Introduction
 ### Hi everyone! I'm Varad Joshi, a freelance developer. 
